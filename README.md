@@ -1,10 +1,17 @@
+### Vu Quang Nguyen &#174; 2018 
+####  HCMUS - Physics: Nuclear of Engineering - No. 1523030 
+
+
+
+
 ***
 
 ### News UPDATE - 08.09.2018
-## Giao trinh va tai lieu HOC KI 7 - 2018 : [Xem Github ](https://github.com/vuquangnguyen2018/HocKi7---2018) + [Vu_Quang_Nguyen](https://drive.google.com/open?id=1LSMJvKOUMY5Ud94uWuMEMVRoc1Op7JTb)+[Lien_ket_GoogleDrive_NVGiai](https://drive.google.com/drive/u/2/folders/1uPptuEYUVha3dUxcbKW9PCI7CWRsnDuA)
-## Bộ dữ liệu động (My repository): [Station](https://github.com/vuquangnguyen2016/station)
-## Trung tam du lieu [GoogleDrive](https://drive.google.com/open?id=0Bz6XJs6zpII1MVNyVGZiLXhkeUk)
-## Thu vien [Github](https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien)
+### Giao trinh va tai lieu HOC KI 7 - 2018 : [Xem Github ](https://github.com/vuquangnguyen2018/HocKi7---2018) + [Vu_Quang_Nguyen](https://drive.google.com/open?id=1LSMJvKOUMY5Ud94uWuMEMVRoc1Op7JTb)+[Lien_ket_GoogleDrive_NVGiai](https://drive.google.com/drive/u/2/folders/1uPptuEYUVha3dUxcbKW9PCI7CWRsnDuA)
+### Bộ dữ liệu động (My repository): [Station](https://github.com/vuquangnguyen2016/station)
+### Trung tam du lieu [GoogleDrive](https://drive.google.com/open?id=0Bz6XJs6zpII1MVNyVGZiLXhkeUk)
+### Thu vien [Github](https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien)
+### Studio [Studio](https://github.com/vuquangnguyen2016/Webpage/wiki/Studio)
 ***
 
 
@@ -184,7 +191,6 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 ***
 ##### [twitter](https://twitter.com/vuqnguyen2016) - [Linkedin](https://vn.linkedin.com/in/vuquangnguyen2016/) - [Youtube](https://www.youtube.com/channel/UCiL_KPDXYNx0IXU4r4iLIoQ) - [Facebook](https://www.facebook.com/vuquangnguyen2018a) - [Gmail](vuquangnguyen2016@gmail.com)  - Contact with us:  01208611883
 #### Vu Quang Nguyen Corp &#169;2018 
-
 
 
 
