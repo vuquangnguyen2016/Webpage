@@ -142,6 +142,7 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 ||Nguyen Huu Nghia | 01226885086|huunghia010198@gmail.com|
 ||Le Duc Truyen | 01632740519|leductruyenkl@gmail.com|
 ||Lam Hoang Nha| 01645175043|VLHN - K2014|
+||Tran Huu Tri|0394084323| VLHN - K2014|
 |---| Phan Luu Anh Nhan  |01223858312 |VLUD|
 |1513007| Tran Thi Thuy An |0944158316 | https://www.instagram.com/ahn.wii/ - VLCR |
 |1513007| Nguyen Thi Tuoi |+84 96 756 90 04|- VLCR |
