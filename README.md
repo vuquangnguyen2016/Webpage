@@ -1,10 +1,3 @@
-# Webpage [MY HOME - Github](https://github.com/vuquangnguyen2016/Webpage/wiki)
-### Vu Quang Nguyen &#174; 2018 
-####  HCMUS - Physics: Nuclear of Engineering - No. 1523030 
-
-
-
-
 ***
 
 ### News UPDATE - 08.09.2018
