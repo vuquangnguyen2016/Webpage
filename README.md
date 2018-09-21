@@ -103,56 +103,56 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 |MSSV| HO VA TEN | SDT | EMAIL|
 |:--:|:--:|:--:|:--:|
 |1423012| PHAN THI NGOC DIEM | 0968938247|  |
-|1323100| TRUONG CONG TUAN ANH | 01699359349|  |
-|1523006| TRAN LE QUOC DAI | 01684186971|  |
-|1523010| NGUYEN VAN GIAI |0165 266 6729 | nguyenvangiai93@gmail.com |
+|1323100| TRUONG CONG TUAN ANH | 0399359349|  |
+|1523006| TRAN LE QUOC DAI | 0384186971|  |
+|1523010| NGUYEN VAN GIAI |035 266 6729 | nguyenvangiai93@gmail.com |
 |1523011| PHAM DUY HAN | 0981864445| phamduyhan2511@gmail.com |
-|1523014| NGUYEN THI THU HIEN | 01634868548|  |
+|1523014| NGUYEN THI THU HIEN | 0334868548|  |
 |1523017| NGUYEN DOAN HOANG HUY | (097)662-9070| nguyendoanhoanghuy1412@gmail.com |
-|1523019| DO VAN HUYNH |0163 677 6773 |  |
+|1523019| DO VAN HUYNH |033 677 6773 |  |
 |1523024| DANG VAN LONG | |  |
-|1523006| TRAN LE QUOC DAI | 01684186971	|  |
+|1523006| TRAN LE QUOC DAI | 0384186971	|  |
 |1523026| LE DO LOC | 0932619810|  |
-|1523027| LY NHAT MINH |0163 677 6773 | - VLYK |
+|1523027| LY NHAT MINH |033 677 6773 | - VLYK |
 |1523029| NGUYEN NHAT NAM | |  |
-|1523030| VU QUANG NGUYEN | 01208611883|bitbucket.com/vuquangnguyen2018  |
-|1523032| TRINH NGUYEN YEN NHI | 0164 850 2709|  |
-|1523023| Nguyen Thi Thuy Linh | +84 96 756 90 04|  |
+|1523030| VU QUANG NGUYEN | 0708611883|vuquangnguyen2016@gmail.com  |
+|1523032| TRINH NGUYEN YEN NHI | 034 8502709|  |
+|1523023| Nguyen Thi Thuy Linh | 096 756 90 04|  |
 |1523034| NGUYEN NGOC HAN NY |096 210 69 98 | hanny15kth@gmail.com |
 |1523042| NGUYEN PHUOC DU SANG |0948359934 |sangkajyo97@gmail.com  |
-|1523043| NGUYEN TAN SANG|01637153114||
-|1523048| LE NGOC THAI |(094)959-5844 | 01677191008 |
+|1523043| NGUYEN TAN SANG|0337153114||
+|1523048| LE NGOC THAI |(094)959-5844 | 0377191008 |
 |1523056| TRUONG THI TIEN |0966806526 |  |
 |1523062| PHAM HUU TUAN |  0968163984| phamhuutuan7443@gmail.com |
-|1413112| HOANG THI NHUNG | 01676035053|  Hoangthinhung12051996@gmail.com|
+|1413112| HOANG THI NHUNG | 0376035053|  Hoangthinhung12051996@gmail.com|
 |1513049| Phan Thị Ngọc Hân	 | 0963582427	|  |
-|1513091| Nguyễn Thị Thùy Linh	 | 01694679578	|  |
-|1513096| NGUYEN THANH LUAN | 01647529397| thanhluan147@gmail.com |
-|1513103| NGUYEN THI NGOC MAI | 01286049185	|  |
+|1513091| Nguyễn Thị Thùy Linh	 | 0394679578	|  |
+|1513096| NGUYEN THANH LUAN | 0347529397| thanhluan147@gmail.com |
+|1513103| NGUYEN THI NGOC MAI | 0786049185	|  |
 |1513171| HUYNH LE THU THAO | 0977809039	|  |
 |1513177| BUI NGOC THIEN |0942276022	 |   thienbui2191997@gmail.com|
-|1513200| NGO BAO TRAM |01223895590 | khoahocsuyluan@gmail.com |
-|1513211| DUONG HONG TRUC | 01217837443	|duonghongtruc1897@gmail.com  |
+|1513200| NGO BAO TRAM |0773895590 | khoahocsuyluan@gmail.com |
+|1513211| DUONG HONG TRUC | 0797837443	|duonghongtruc1897@gmail.com  |
 |1513212| LA THANH TRUC | 0933810845|thanhtrucla270397@gmail.com |
-|1513230| NGUYEN THI THAO VY | 01286389345	|  |
-|1513052| Pham Thi Ngoc Hieu  |0164 332 3463 |VLUD|
-||Le Van Phuong | 01687669491|phuongvanle007@gmail.com|
+|1513230| NGUYEN THI THAO VY | 0786389345	|  |
+|1513052| Pham Thi Ngoc Hieu  |034 332 3463 |VLUD|
+||Le Van Phuong | 0387669491|phuongvanle007@gmail.com|
 ||Tran Huu Nhan | 0973528120|huunhan179@gmail.com|
 ||Nguyen Minh Hong Anh | 0944941876|ngocnga1803@gmail.com|
-||Nguyen Huu Nghia | 01226885086|huunghia010198@gmail.com|
-||Le Duc Truyen | 01632740519|leductruyenkl@gmail.com|
-||Lam Hoang Nha| 01645175043|VLHN - K2014|
+||Nguyen Huu Nghia | 0776885086|huunghia010198@gmail.com|
+||Le Duc Truyen | 0332740519|leductruyenkl@gmail.com|
+||Lam Hoang Nha| 0345175043|VLHN - K2014|
 ||Tran Huu Tri|0394084323| VLHN - K2014|
-|---| Phan Luu Anh Nhan  |01223858312 |VLUD|
+|---| Phan Luu Anh Nhan  |0773858312 |VLUD|
 |1513007| Tran Thi Thuy An |0944158316 | https://www.instagram.com/ahn.wii/ - VLCR |
-|1513007| Nguyen Thi Tuoi |+84 96 756 90 04|- VLCR |
+|1513007| Nguyen Thi Tuoi |096 756 90 04|- VLCR |
 |--|MS. Nguyen Dien Quoc Bao |01238338567 |STK - Agribank 6380215012601  |
 |--|MS. Huynh Thanh Nhan |0919 786 248 - 0906962748|Giao vu khoa  |
 |--|MS.  Huynh Nguyen Phong Thu |0903122520 | hnpthunel@gmail.com  -  hnpthu@hcmus.edu.vn | 
 |--|Assoc. Prof. Tran Thien Thanh |0908575851 | ttthanh@hcmus.edu.vn |
 |--|Ph.D Le Hong Hai |0903830100 | vhhai@hcmus.edu.vn |
 |--|Ph.D Trinh Hoa Lang |0938071516 | thlang@hcmus.edu.vn |
-|--|Ph.D Nguyen Thanh Lam |+84 168 855 7403 |  |
+|--|Ph.D Nguyen Thanh Lam |0168 855 7403 |  |
 |--|Assoc. Prof. Le Cong Hao |0917657009 | lchao@hcmus.edu.vn |
 |--|Assoc. Prof. Truong Thi Hong Loan |0903 380 476 | tthloan@hcmus.edu.vn |
 |--|Prof. Chau Van Tao | |  cvtao@hcmus.edu.vn|
@@ -166,9 +166,9 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 |--|MS. Le Hoang Chien | | lhchien@hcmus.edu.vn |
 |--|MS. Vo Hoang Nguyen | 0987645901| vhnguyen@hcmus.edu.vn |
 |--|MS. Nguyen Dien Quoc Bao | 01238338567 | ndqbao92@gmail.com|
-|--|MS. Huỳnh Thị Yến Hồng | 0168 996 0752 | htyhong@hcmus.edu.vn|
-|--|MS. Trương Hữu Ngân Thy |0168 863 6000| thnthy@hcmus.edu.vn|
-|--|MS. Nguyễn Văn Thắng |01203261636| nvthang@hcmus.edu.vn|
+|--|MS. Huỳnh Thị Yến Hồng | 038 996 0752 | htyhong@hcmus.edu.vn|
+|--|MS. Trương Hữu Ngân Thy |038 863 6000| thnthy@hcmus.edu.vn|
+|--|MS. Nguyễn Văn Thắng |0703261636| nvthang@hcmus.edu.vn|
 |--|TS. BS. Nguyễn Xuân Cảnh * ThS. KS. Nguyễn Tấn Châu| |ntanchau@live.com|
 |--|Ths. KS. Nguyễn Thanh Hiển. * Ths. KS. Nguyễn Tấn Châu| 0989255890| nguyenthanhhienvl@gmail.com  - ntanchau@live.com|
 |--|Ths. Phan Long Hồ  | 0918563609 | phanlongho@iph.org.vn |
@@ -177,7 +177,7 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 |--|ThS. Nguyễn Anh Tuấn| 0939 503466| natuan3584@gmail.com|
 ||ThS. Nguyễn Anh Tuấn| 0939 503466| natuan3584@gmail.com|
 ||ThS. Dương Thanh Tài Thanh|0945569139|tai_phys@yahoo.com |
-||ThS. Nguyễn Thị Trúc Linh | 01285097207 |nttlinh@hcmus.edu.vn|
+||ThS. Nguyễn Thị Trúc Linh | 0785097207 |nttlinh@hcmus.edu.vn|
 ||ThS. Lê Quang Vương| 0976905317 |vuonglequangk23@gmail.com|
 ||Ths. Đặng Quang Huy| |huybv175@yahoo.com|
 ||Ths. Vũ Quân |0927667368 |vuquan0109@gmail.com|
