@@ -148,7 +148,7 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 |---| Nguyen Chieu Duong  |0342999675 |K2014|
 |1513007| Tran Thi Thuy An |0944158316 | https://www.instagram.com/ahn.wii/ - VLCR |
 |1513007| Nguyen Thi Tuoi |096 756 90 04|- VLCR |
-|-| Trương Kim Nhi |01274304648	| VLCR |
+|-| Trương Kim Nhi |0814304648	| VLCR |
 |--|MS. Nguyen Dien Quoc Bao |0838338567 |STK - Agribank 6380215012601  |
 |--|MS. Huynh Thanh Nhan |0919 786 248 - 0906962748|Giao vu khoa  |
 |--|MS.  Huynh Nguyen Phong Thu |0903122520 | hnpthunel@gmail.com  -  hnpthu@hcmus.edu.vn | 
@@ -192,7 +192,7 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 ||ThS. Đặng Thị Minh Tâm |0909661769 |mtampt@gmail.com|
 ||Mai Tiến |096 5871752 - 0369257720 |MEM|
 ||Mai Tân |096 5871752 - 0369257720 |MEM|
-||Dì Quảnh |0165 600 2527  - 0777516091 |MEM|
+||Dì Quảnh |035 600 2527  - 0777516091 |MEM|
 ||Cu Anh |0369167538  |MEM|
 
 
