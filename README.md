@@ -93,8 +93,8 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 
 
 ##### DE TAI KHOA LUAN SV 2015
-[Xem](http://vlhn-hcmus.com/thong-bao/bang-tin-bo-mon/787-danh-sach-d-tai-sinh-vien-khoa-2015.html)
-[DS Sinh vien + De Tai](https://github.com/vuquangnguyen2018/Document_Main/files/2404363/Danh.sach.d.tai.khoa.lu.n.K2015.pdf)
+[Xem](http://vlhn-hcmus.com/thong-bao/bang-tin-bo-mon/787-danh-sach-d-tai-sinh-vien-khoa-2015.html) <br/>
+[DS Sinh vien + De Tai](https://github.com/vuquangnguyen2018/Document_Main/files/2404363/Danh.sach.d.tai.khoa.lu.n.K2015.pdf) <br/>
 [Bieu mau](https://bitbucket.org/vuquangnguyen2018/tailieu_hoctap/issues/1/bieu-mau)
 
 
