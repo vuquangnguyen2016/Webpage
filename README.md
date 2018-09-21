@@ -118,7 +118,7 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 |1523030| VU QUANG NGUYEN | 01208611883|bitbucket.com/vuquangnguyen2018  |
 |1523032| TRINH NGUYEN YEN NHI | 0164 850 2709|  |
 |1523023| Nguyen Thi Thuy Linh | +84 96 756 90 04|  |
-|1523034| NGUYEN NGOC HAN NY |096 210 69 98 |  |
+|1523034| NGUYEN NGOC HAN NY |096 210 69 98 | hanny15kth@gmail.com |
 |1523042| NGUYEN PHUOC DU SANG |0948359934 |sangkajyo97@gmail.com  |
 |1523043| NGUYEN TAN SANG|01637153114||
 |1523048| LE NGOC THAI |(094)959-5844 | 01677191008 |
@@ -127,13 +127,13 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 |1413112| HOANG THI NHUNG | 01676035053|  Hoangthinhung12051996@gmail.com|
 |1513049| Phan Thị Ngọc Hân	 | 0963582427	|  |
 |1513091| Nguyễn Thị Thùy Linh	 | 01694679578	|  |
-|1513096| NGUYEN THANH LUAN | 01647529397|  |
+|1513096| NGUYEN THANH LUAN | 01647529397| thanhluan147@gmail.com |
 |1513103| NGUYEN THI NGOC MAI | 01286049185	|  |
 |1513171| HUYNH LE THU THAO | 0977809039	|  |
 |1513177| BUI NGOC THIEN |0942276022	 |   thienbui2191997@gmail.com|
 |1513200| NGO BAO TRAM |01223895590 | khoahocsuyluan@gmail.com |
 |1513211| DUONG HONG TRUC | 01217837443	|duonghongtruc1897@gmail.com  |
-|1513212| LA THANH TRUC | 0933810845| thanhtrucla270397@gmail.com |
+|1513212| LA THANH TRUC | 0933810845|thanhtrucla270397@gmail.com |
 |1513230| NGUYEN THI THAO VY | 01286389345	|  |
 |1513052| Pham Thi Ngoc Hieu  |0164 332 3463 |VLUD|
 ||Le Van Phuong | 01687669491|phuongvanle007@gmail.com|
