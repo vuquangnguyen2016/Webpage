@@ -115,6 +115,7 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 |1523026| LE DO LOC | 0932619810|  |
 |1523027| LY NHAT MINH |033 677 6773 | - VLYK |
 |1523029| NGUYEN NHAT NAM | |  |
+|1523018| Phan Quốc Huy| 0981396948|  |
 |1523030| VU QUANG NGUYEN | 0708611883|vuquangnguyen2016@gmail.com  |
 |1523032| TRINH NGUYEN YEN NHI | 034 8502709|  |
 |1523023| Nguyen Thi Thuy Linh | 096 756 90 04|  |
@@ -144,8 +145,10 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 ||Lam Hoang Nha| 0345175043|VLHN - K2014|
 ||Tran Huu Tri|0394084323| VLHN - K2014|
 |---| Phan Luu Anh Nhan  |0773858312 |VLUD|
+|---| Nguyen Chieu Duong  |01642999675 |K2014|
 |1513007| Tran Thi Thuy An |0944158316 | https://www.instagram.com/ahn.wii/ - VLCR |
 |1513007| Nguyen Thi Tuoi |096 756 90 04|- VLCR |
+|-| Trương Kim Nhi |01274304648	| VLCR |
 |--|MS. Nguyen Dien Quoc Bao |0838338567 |STK - Agribank 6380215012601  |
 |--|MS. Huynh Thanh Nhan |0919 786 248 - 0906962748|Giao vu khoa  |
 |--|MS.  Huynh Nguyen Phong Thu |0903122520 | hnpthunel@gmail.com  -  hnpthu@hcmus.edu.vn | 
@@ -187,6 +190,11 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 ||Ths. Nguyễn Văn Hạnh | 0983665549||
 || TS. Huỳnh Trúc Phương | 0974441865||
 ||ThS. Đặng Thị Minh Tâm |0909661769 |mtampt@gmail.com|
+||Mai Tiến |096 5871752 - 01669257720 |MEM|
+||Mai Tân |096 5871752 - 01669257720 |MEM|
+||Dì Quảnh |0165 600 2527  - 01227516091 |MEM|
+||Cu Anh |01669167538  |MEM|
+
 
 
 ***
