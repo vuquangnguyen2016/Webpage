@@ -145,7 +145,7 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 ||Lam Hoang Nha| 0345175043|VLHN - K2014|
 ||Tran Huu Tri|0394084323| VLHN - K2014|
 |---| Phan Luu Anh Nhan  |0773858312 |VLUD|
-|---| Nguyen Chieu Duong  |01642999675 |K2014|
+|---| Nguyen Chieu Duong  |0342999675 |K2014|
 |1513007| Tran Thi Thuy An |0944158316 | https://www.instagram.com/ahn.wii/ - VLCR |
 |1513007| Nguyen Thi Tuoi |096 756 90 04|- VLCR |
 |-| Trương Kim Nhi |01274304648	| VLCR |
@@ -155,7 +155,7 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 |--|Assoc. Prof. Tran Thien Thanh |0908575851 | ttthanh@hcmus.edu.vn |
 |--|Ph.D Le Hong Hai |0903830100 | vhhai@hcmus.edu.vn |
 |--|Ph.D Trinh Hoa Lang |0938071516 | thlang@hcmus.edu.vn |
-|--|Ph.D Nguyen Thanh Lam |0168 855 7403 |  |
+|--|Ph.D Nguyen Thanh Lam |038 855 7403 |  |
 |--|Assoc. Prof. Le Cong Hao |0917657009 | lchao@hcmus.edu.vn |
 |--|Assoc. Prof. Truong Thi Hong Loan |0903 380 476 | tthloan@hcmus.edu.vn |
 |--|Prof. Chau Van Tao | |  cvtao@hcmus.edu.vn|
@@ -190,10 +190,11 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 ||Ths. Nguyễn Văn Hạnh | 0983665549||
 || TS. Huỳnh Trúc Phương | 0974441865||
 ||ThS. Đặng Thị Minh Tâm |0909661769 |mtampt@gmail.com|
-||Mai Tiến |096 5871752 - 01669257720 |MEM|
-||Mai Tân |096 5871752 - 01669257720 |MEM|
-||Dì Quảnh |0165 600 2527  - 01227516091 |MEM|
-||Cu Anh |01669167538  |MEM|
+||Mai Tiến |096 5871752 - 0369257720 |MEM|
+||Mai Tân |096 5871752 - 0369257720 |MEM|
+||Dì Quảnh |0165 600 2527  - 0777516091 |MEM|
+||Cu Anh |0369167538  |MEM|
+
 
 
 
