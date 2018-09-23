@@ -194,9 +194,12 @@ _Download_: [TKB HK1 2018-2019.pdf](https://github.com/vuquangnguyen2016/Webpage
 ||Mai Tân |096 5871752 - 0369257720 |MEM|
 ||Dì Quảnh |035 600 2527  - 0777516091 |MEM|
 ||Cu Anh |0369167538  |MEM|
-
-
-
+||Give Me a Chance |0769367807 |MEM|
+||Di Oanh |0725445424 |MEM|
+||Cau 5 |0348890732 |MEM|
+||DakLak |0934726684 |MEM|
+||Mo 5|0945428428 |MEM|
+||Ba Ngoai 4 |0764129459|MEM|
 
 ***
 ##### [twitter](https://twitter.com/vuqnguyen2016) - [Linkedin](https://vn.linkedin.com/in/vuquangnguyen2016/) - [Youtube](https://www.youtube.com/channel/UCiL_KPDXYNx0IXU4r4iLIoQ) - [Facebook](https://www.facebook.com/vuquangnguyen2018a) - [Gmail](vuquangnguyen2016@gmail.com)  - Contact with us:  01208611883
