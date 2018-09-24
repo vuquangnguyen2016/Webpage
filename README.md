@@ -33,7 +33,7 @@ Thoi khoa bieu khoa Toan :
 |Wed 07.30-11.30|**E302**|DH KHXH NV |VL-VLKT|NL CN Mac Lenin|
 |Fri 09.30-11.30|E302|LT Cang & NH Nha|VL-VLKT|Cac PP Toan Ly|
 |Sun 09.00 - 11.30|E202B|Tran Tuan Anh|Toan Tin UD|Data Mining |
-|Sun 07.30 - 09.30|F104|--|Toan Tin UD|Vi Tich phan 2B |
+|Sun 07.30 - 09.30|F104 |--           |Toan Tin UD|Vi Tich phan 2B |
 ***
 # News update 15.08.2018
 
