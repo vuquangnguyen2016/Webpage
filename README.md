@@ -1,6 +1,5 @@
-### Vu Quang Nguyen 2018
-#### Vũ Quang Nguyên - 1523030 - HCMUS
-####  HCMUS - Physics: Nuclear of Engineering - No. 1523030 
+#### Vu Quang Nguyen 2018
+######  HCMUS - Physics: Nuclear of Engineering - No. 1523030 
 
 ![qr_vu quang nguyen](https://user-images.githubusercontent.com/41269309/47948997-0a7a8b80-df6e-11e8-9f2a-f85cdd22515b.png)
 
