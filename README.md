@@ -18,7 +18,9 @@
 ##### Learning Matlab [Getlink](https://github.com/vuquangnguyen2016/Webpage/issues/14)
 ***
 
-[link](https://github.com/vuquangnguyen2016/Webpage/issues/13){:target="_blank"}
+[Link](https://github.com/vuquangnguyen2016/Webpage/issues/14 "title" target="_blank")
+
+
 # News update 06.09.2018
 Thoi khoa bieu khoa Toan : 
 [Download here](https://github.com/vuquangnguyen2018/Document_Main/files/2357179/TKB.HK1.2018.-2019.Khoa.Toan.-.Tin.hoc.xlsx)
