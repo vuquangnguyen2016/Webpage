@@ -18,7 +18,7 @@
 ##### Learning Matlab [Getlink](https://github.com/vuquangnguyen2016/Webpage/issues/14)
 ***
 
-[Link](https://github.com/vuquangnguyen2016/Webpage/issues/14 "title" target="_blank")
+[Link](https://github.com/vuquangnguyen2016/Webpage/issues/14   target="_blank")
 
 
 # News update 06.09.2018
