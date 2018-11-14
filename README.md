@@ -1,19 +1,18 @@
 ### Vu Quang Nguyen 2018
-####  HCMUS - Physics: Nuclear of Engineering - No. 1523030 
+
 
 
 
 
 
 ***
-|Vu Quang Nguyen |HCMUS. Nuclear of Engineering|
+|Vu Quang Nguyen . No#1523030|HCMUS. Nuclear of Engineering|
 |:--:|:--:|
 |![qr_vu quang nguyen](https://user-images.githubusercontent.com/41269309/47948997-0a7a8b80-df6e-11e8-9f2a-f85cdd22515b.png)|![Brand.Card](https://user-images.githubusercontent.com/36990033/40307517-09827df0-5d2d-11e8-818c-42934c097ccc.jpg)|
 ***
 |STT |ID.Information|Get|
 |:--:|:--:|:--:|
 |1|Giao trinh va tai lieu HOC KI 7 - 2018|[Xem_Github ](https://github.com/vuquangnguyen2018/HocKi7---2018) + [Vu_Quang_Nguyen](https://drive.google.com/open?id=1LSMJvKOUMY5Ud94uWuMEMVRoc1Op7JTb)+[15KTHN](https://drive.google.com/drive/u/2/folders/1uPptuEYUVha3dUxcbKW9PCI7CWRsnDuA) + [15VLYK](https://drive.google.com/open?id=1Pmzkzg-VxOScK8z55PYi_zIWUV87tIT7)|
-
 |2|My repository - Database Workforce |[Workforce](https://github.com/vuquangnguyen2016/Workforce) - [PC.BThanh](https://drive.google.com/open?id=1eBhUDLjhls8DX5kuu_Zh8eRCdfyyyXFf) - [PC.District5](https://drive.google.com/open?id=1jM35a4lOAHOQWfdySnYsoH3i0JTFOG0l) - [WorkforceD5](https://github.com/vuquangnguyen2016/WorkforceD5)|
 |3| Thu Vien |[Goto_Link](https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien) |
 |4| Studio - Photos |[Studio_Photos](https://vuquangnguyen2018.github.io/WebStudio/) |
