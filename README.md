@@ -5,11 +5,11 @@
 
 
 
-***
-|Vu Quang Nguyen . No#1523030|HCMUS. Nuclear of Engineering|
+
+|Vu Quang Nguyen |HCMUS. Nuclear of Engineering|
 |:--:|:--:|
-|![qr_vu quang nguyen](https://user-images.githubusercontent.com/41269309/47948997-0a7a8b80-df6e-11e8-9f2a-f85cdd22515b.png)|![Brand.Card](https://user-images.githubusercontent.com/36990033/40307517-09827df0-5d2d-11e8-818c-42934c097ccc.jpg)|
-***
+|![qr_vu quang nguyen](https://user-images.githubusercontent.com/41269309/47948997-0a7a8b80-df6e-11e8-9f2a-f85cdd22515b.png)|![40307517-09827df0-5d2d-11e8-818c-42934c097ccc](https://user-images.githubusercontent.com/36990033/48460158-1bde5600-e800-11e8-8ea0-b95b273d9260.jpg)|
+
 |STT |ID.Information|Get|
 |:--:|:--:|:--:|
 |1|Giao trinh va tai lieu HOC KI 7 - 2018|[Xem_Github ](https://github.com/vuquangnguyen2018/HocKi7---2018) + [Vu_Quang_Nguyen](https://drive.google.com/open?id=1LSMJvKOUMY5Ud94uWuMEMVRoc1Op7JTb)+[15KTHN](https://drive.google.com/drive/u/2/folders/1uPptuEYUVha3dUxcbKW9PCI7CWRsnDuA) + [15VLYK](https://drive.google.com/open?id=1Pmzkzg-VxOScK8z55PYi_zIWUV87tIT7)|
@@ -17,7 +17,6 @@
 |3| Thu Vien |[Goto_Link](https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien) |
 |4| Studio - Photos |[Studio_Photos](https://vuquangnguyen2018.github.io/WebStudio/) |
 |5| Accomplishment | [Learning Python](https://github.com/vuquangnguyen2016/Webpage/issues/13) -  [Learning Matlab](https://github.com/vuquangnguyen2016/Webpage/issues/14) -  [GoogleDrive.Sach](https://drive.google.com/open?id=0Bz6XJs6zpII1MVNyVGZiLXhkeUk)|
-
 ***
 
 # News update 06.09.2018
