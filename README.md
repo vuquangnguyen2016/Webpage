@@ -3,7 +3,7 @@
 
 |Vu Quang Nguyen |HCMUS. Nuclear of Engineering|
 |:--:|:--:|
-|![logo hcmus](https://user-images.githubusercontent.com/41269309/48658472-f0b06c80-ea74-11e8-86b7-68b3b6938118.jpg)|![qr](https://user-images.githubusercontent.com/41269309/48658417-e2158580-ea73-11e8-971e-e1ee602b7ff8.png)|
+|![logo hcmus](https://user-images.githubusercontent.com/41269309/48658499-57358a80-ea75-11e8-9921-13cd1b700622.jpg)|![qr](https://user-images.githubusercontent.com/41269309/48658417-e2158580-ea73-11e8-971e-e1ee602b7ff8.png)|
 
 |STT |ID.Information|Get|
 |:--:|:--:|:--:|
