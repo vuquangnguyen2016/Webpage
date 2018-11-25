@@ -17,9 +17,10 @@
 ```html
 
 My dream was bring to Vietnam a tribute success dedicated to 
-Vietnam which tells my our history and vision.
+Vietnam which tells my knowledge and vision.
 
-It was not simply a result of experiment, but something that we created
+It was not simply a result of experiment,
+but something that we created
 especially with love and passion for Vietnam and 
 all the people around the world who loves Nuclear physics.
 
