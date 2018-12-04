@@ -18,7 +18,7 @@
 |Date|Mon thi|Ghi chu|
 |:--:|:--:|:--:|
 |Thus,Dec.20.2018|UD Nong Y Sinh - Dia Thuy Van|Pleasure|
-|Tue,Dec.25.2018|UD Geant4 - Coding|Pleasure - [Download](https://drive.google.com/open?id=1cdX0yr-W9qKWDs0du5_UBiy86FqDiH29)|
+|08.00 - 10.00,Tue,Dec.25.2018|UD Geant4 - Coding|Pleasure - [Download](https://drive.google.com/open?id=1cdX0yr-W9qKWDs0du5_UBiy86FqDiH29)|
 
 
 
