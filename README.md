@@ -1,5 +1,5 @@
 ### Vu Quang Nguyen 2018
-
+<!-- https://github.com/vuquangnguyen2016/Webpage/edit/master/README.md -->
 
 |Vu Quang Nguyen |HCMUS. Nuclear of Engineering|
 |:--:|:--:|
@@ -17,7 +17,9 @@
 
 |Date|Mon thi|Ghi chu|
 |:--:|:--:|:--:|
-|Tue,Dec.25.2018|UD Nong Y Sinh - Dia Thuy Van|De dong - May Tinh|
+|Thus,Dec.20.2018|UD Nong Y Sinh - Dia Thuy Van|Pleasure|
+|Tue,Dec.25.2018|UD Geant4 - Coding|Pleasure - [Download](https://drive.google.com/open?id=1cdX0yr-W9qKWDs0du5_UBiy86FqDiH29)|
+
 
 
 
