@@ -14,6 +14,13 @@
 |5| Accomplishment | [Learning Python](https://github.com/vuquangnguyen2016/Webpage/issues/13) -  [Learning Matlab](https://github.com/vuquangnguyen2016/Webpage/issues/14) -  [GoogleDrive.Sach](https://drive.google.com/open?id=0Bz6XJs6zpII1MVNyVGZiLXhkeUk)|
 
 
+
+|Date|Mon thi|Ghi chu|
+|:--:|:--:|:--:|
+|Tue,Dec.25.2018|UD Nong Y Sinh - Dia Thuy Van|De dong - May Tinh|
+
+
+
 ```html
 
 My dream was bring to Vietnam a tribute success dedicated to 
@@ -35,3 +42,4 @@ express my gratitude to my friends and my teachers.
 
 
 ```
+
