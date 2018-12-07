@@ -17,6 +17,8 @@
 
 |Time|Date|Mon thi|Ghi chu|
 |:--:|:--:|:--:|:--:|
+||10-13/12/2018|Lop Experiment|Openning|
+|AM|15/12/2018|LMay Gia Toc|Presentation|
 ||Tue 25/12/2018|UD Nong Y Sinh - Dia Thuy Van|Pleasure|
 |08.00 - 12.00|Thus 20/12/2018|UD Geant4 - Coding|Pleasure - [Download](https://drive.google.com/open?id=1cdX0yr-W9qKWDs0du5_UBiy86FqDiH29)|
 |||UD Matlab - Coding|Pleasure|
