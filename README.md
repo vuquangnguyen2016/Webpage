@@ -26,6 +26,12 @@
 |||May Gia Toc|Presentation - Test.Private|
 ||Thu 03/01/2019|Thuc Tap Chuyen de 2|Test.Quizzes|
 
+# Lich Bao cao Luan van: Cu nhan - Thac sy - Tien sy 
+
+|Time|Room||Ghi chu|
+|:--:|:--:|:--:|
+|07.30 - 27/12/2018| Bo Mon | Thông báo ngày bảo vệ luận văn cao học các khóa 24, 25 và 26 là thứ 5|
+
 ```html
 
 My dream was bring to Vietnam a tribute success dedicated to 
