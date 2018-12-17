@@ -30,6 +30,7 @@
 
 |Time|Room|Ghi chu|
 |:--:|:--:|:--:|
+|13:30- 20.12.2018.| Bo Mon | Seminar khoa học của GS. Itahashi|
 |07.30 - 27/12/2018| Bo Mon | Thông báo ngày bảo vệ luận văn cao học các khóa 24, 25 và 26 là thứ 5|
 
 ```html
