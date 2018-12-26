@@ -20,11 +20,11 @@
 ||10-13/12/2018|Lop Experiment|Openning|
 |AM|15/12/2018|May Gia Toc|Presentation|
 |08.00 - 12.00|Thus 20/12/2018|UD Geant4 - Coding|Pleasure - [Download](https://drive.google.com/open?id=1cdX0yr-W9qKWDs0du5_UBiy86FqDiH29)|
-||Fri 21/12/2018|UDKHTN Cong nghiep|Presentation|
 ||Tue 25/12/2018|UD Nong Y Sinh - Dia Thuy Van|Pleasure|
-|||UD Matlab - Coding|Pleasure|
-|||May Gia Toc|Presentation - Test.Private|
-||Thu 03/01/2019|Thuc Tap Chuyen de 2|Test.Quizzes|
+||08.00 Wed 2/1/2019|UDKHTN Cong nghiep|Presentation|
+||08.00 Fri 28/12/2018|UD Matlab - Coding|Pleasure|
+||08.00 Fri 04/01/2019|May Gia Toc|Presentation - Test.Private|
+||08.00 Thu 03/01/2019|Thuc Tap Chuyen de 2|Test.Quizzes|
 
 # Lich Bao cao Luan van: Cu nhan - Thac sy - Tien sy 
 
@@ -55,3 +55,8 @@ express my gratitude to my friends and my teachers.
 
 ```
 
+<!--NOTE : Môn học cho em nhiều kĩ năng trong làm việc nhóm và giúp em yêu thích bộ môn và chuyên ngành mình theo đuổi
+REVIEW  Phòng hơi chật. Thời gian học hơi sớm
+REVIEW Cải thiện chất lượng Wifi
+
+ -->
