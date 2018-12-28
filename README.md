@@ -17,14 +17,10 @@
 
 |Time|Date|Mon thi|Ghi chu|
 |:--:|:--:|:--:|:--:|
-||10-13/12/2018|Lop Experiment|Openning|
-|AM|15/12/2018|May Gia Toc|Presentation|
-|08.00 - 12.00|Thus 20/12/2018|UD Geant4 - Coding|Pleasure - [Download](https://drive.google.com/open?id=1cdX0yr-W9qKWDs0du5_UBiy86FqDiH29)|
-|08.00 - 12.30|Tue 25/12/2018|UD Nong Y Sinh - Dia Thuy Van|Pleasure|
-|08.00| Fri 28/12/2018|UD Matlab - Coding|Pleasure|
 |08.00| Wed 02/01/2019|UDKHTN Cong nghiep|Presentation|
-|08.00 |Fri 04/01/2019|May Gia Toc|Presentation - Test.Private|
 |08.00| Thu 03/01/2019|Thuc Tap Chuyen de 2|Test.Quizzes|
+|08.00 |Fri 04/01/2019|May Gia Toc|Presentation - Test.Private|
+|13.00|Fri 04/01/2019|UD Matlab - Coding|Pleasure|
 
 # Lich Bao cao Luan van: Cu nhan - Thac sy - Tien sy 
 
@@ -60,3 +56,15 @@ REVIEW  Phòng hơi chật. Thời gian học hơi sớm
 REVIEW Cải thiện chất lượng Wifi
 
  -->
+
+
+<!-- |Time|Date|Mon thi|Ghi chu|
+|:--:|:--:|:--:|:--:|
+||10-13/12/2018|Lop Experiment|Openning|
+|AM|15/12/2018|May Gia Toc|Presentation|
+|08.00 - 12.00|Thus 20/12/2018|UD Geant4 - Coding|Pleasure - [Download](https://drive.google.com/open?id=1cdX0yr-W9qKWDs0du5_UBiy86FqDiH29)|
+|08.00 - 12.30|Tue 25/12/2018|UD Nong Y Sinh - Dia Thuy Van|Pleasure|
+|08.00| Wed 02/01/2019|UDKHTN Cong nghiep|Presentation|
+|08.00| Thu 03/01/2019|Thuc Tap Chuyen de 2|Test.Quizzes|
+|08.00 |Fri 04/01/2019|May Gia Toc|Presentation - Test.Private|
+|13.00|Fri 04/01/2019|UD Matlab - Coding|Pleasure| -->
