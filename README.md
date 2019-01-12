@@ -13,21 +13,6 @@
 |4| Studio - Photos |[Studio_Photos](https://vuquangnguyen2018.github.io/WebStudio/) |
 |5| Accomplishment | [Learning Python](https://github.com/vuquangnguyen2016/Webpage/issues/13) -  [Learning Matlab](https://github.com/vuquangnguyen2016/Webpage/issues/14) -  [GoogleDrive.Sach](https://drive.google.com/open?id=0Bz6XJs6zpII1MVNyVGZiLXhkeUk)|
 
-# Lich thi Cuoi ki - 2018 to 2019 
-
-|Time|Date|Mon thi|Ghi chu|
-|:--:|:--:|:--:|:--:|
-|08.00| Wed 02/01/2019|UDKHTN Cong nghiep|Presentation|
-|08.00| Thu 03/01/2019|Thuc Tap Chuyen de 2|Test.Quizzes|
-|08.00 |Fri 04/01/2019|May Gia Toc|Presentation - Test.Private|
-|13.00|Fri 04/01/2019|UD Matlab - Coding|Pleasure|
-
-# Lich Bao cao Luan van: Cu nhan - Thac sy - Tien sy 
-
-|Time|Room|Ghi chu|
-|:--:|:--:|:--:|
-|13:30- 20.12.2018.| Bo Mon | Seminar khoa học của GS. Itahashi|
-|07.30 - 27/12/2018| Bo Mon | Thông báo ngày bảo vệ luận văn cao học các khóa 24, 25 và 26 là thứ 5|
 
 ```html
 
@@ -67,4 +52,18 @@ REVIEW Cải thiện chất lượng Wifi
 |08.00| Wed 02/01/2019|UDKHTN Cong nghiep|Presentation|
 |08.00| Thu 03/01/2019|Thuc Tap Chuyen de 2|Test.Quizzes|
 |08.00 |Fri 04/01/2019|May Gia Toc|Presentation - Test.Private|
-|13.00|Fri 04/01/2019|UD Matlab - Coding|Pleasure| -->
+|13.00|Fri 04/01/2019|UD Matlab - Coding|Pleasure| --># Lich thi Cuoi ki - 2018 to 2019 
+<!-- 
+|Time|Date|Mon thi|Ghi chu|
+|:--:|:--:|:--:|:--:|
+|08.00| Wed 02/01/2019|UDKHTN Cong nghiep|Presentation|
+|08.00| Thu 03/01/2019|Thuc Tap Chuyen de 2|Test.Quizzes|
+|08.00 |Fri 04/01/2019|May Gia Toc|Presentation - Test.Private|
+|13.00|Fri 04/01/2019|UD Matlab - Coding|Pleasure|
+
+# Lich Bao cao Luan van: Cu nhan - Thac sy - Tien sy 
+
+|Time|Room|Ghi chu|
+|:--:|:--:|:--:|
+|13:30- 20.12.2018.| Bo Mon | Seminar khoa học của GS. Itahashi|
+|07.30 - 27/12/2018| Bo Mon | Thông báo ngày bảo vệ luận văn cao học các khóa 24, 25 và 26 là thứ 5| -->
