@@ -52,7 +52,9 @@ REVIEW Cải thiện chất lượng Wifi
 |08.00| Wed 02/01/2019|UDKHTN Cong nghiep|Presentation|
 |08.00| Thu 03/01/2019|Thuc Tap Chuyen de 2|Test.Quizzes|
 |08.00 |Fri 04/01/2019|May Gia Toc|Presentation - Test.Private|
-|13.00|Fri 04/01/2019|UD Matlab - Coding|Pleasure| --># Lich thi Cuoi ki - 2018 to 2019 
+|13.00|Fri 04/01/2019|UD Matlab - Coding|Pleasure| -->
+
+<!-- # Lich thi Cuoi ki - 2018 to 2019  -->
 <!-- 
 |Time|Date|Mon thi|Ghi chu|
 |:--:|:--:|:--:|:--:|
