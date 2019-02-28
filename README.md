@@ -33,9 +33,8 @@ express my gratitude to my friends and my teachers.
 
 
 
-#### ID
+#### ID: # ID: [ID.Task](https://github.com/vuquangnguyen2018/WebStudio/issues/12)**
 
-[ID](https://github.com/vuquangnguyen2018/WebStudio/issues/12)
 ```
 
 <!--NOTE : Môn học cho em nhiều kĩ năng trong làm việc nhóm và giúp em yêu thích bộ môn và chuyên ngành mình theo đuổi
