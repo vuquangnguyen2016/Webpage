@@ -33,7 +33,7 @@ express my gratitude to my friends and my teachers.
 
 
 
-#### ID: # ID: [ID.Task](https://github.com/vuquangnguyen2018/WebStudio/issues/12)**
+#### ID: # ID: [ID.Task](https://github.com/vuquangnguyen2018/WebStudio/issues/12)
 
 ```
 
