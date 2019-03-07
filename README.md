@@ -8,8 +8,8 @@
 |STT |ID.Information|Get|
 |:--:|:--:|:--:|
 |1|Giao trinh va tai lieu HOC KI 7 - 2018|[Xem_Github ](https://github.com/vuquangnguyen2018/HocKi7---2018) + [Vu_Quang_Nguyen](https://drive.google.com/open?id=1LSMJvKOUMY5Ud94uWuMEMVRoc1Op7JTb)+[15KTHN](https://drive.google.com/drive/u/2/folders/1uPptuEYUVha3dUxcbKW9PCI7CWRsnDuA) + [15VLYK](https://drive.google.com/open?id=1Pmzkzg-VxOScK8z55PYi_zIWUV87tIT7)|
-|2|My repository - Database Workforce |[Workforce](https://github.com/vuquangnguyen2016/Workforce) - [PC.BThanh](https://drive.google.com/open?id=1eBhUDLjhls8DX5kuu_Zh8eRCdfyyyXFf) - [PC.District5.2019](https://drive.google.com/open?id=1ZtjD7L0O4SXA-SZwZK6JAzfBNnlDPQhC) - [PC.District5](https://drive.google.com/open?id=1jM35a4lOAHOQWfdySnYsoH3i0JTFOG0l) - [WorkforceD5](https://github.com/vuquangnguyen2016/WorkforceD5)|
-|3| Thu Vien |[Goto_Link](https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien) |
+|2|My repository - Database Workforce |[WorkspaceDistrict5](https://drive.google.com/open?id=1LhQ1wSH-U8NNQEQGHxJT2Nm-40HbdCH5) - [DataCenter](https://drive.google.com/open?id=1mCCS0pCrIU6l2RvENKscfRwmIl4qk5ua)|
+|3| Thu Vien |[Goto_Link](https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien) - [DataLibrary](https://drive.google.com/open?id=1RBE9CtaFYegCJBFkYM5ez42JO_byCCUR) - [ExamBanking](https://drive.google.com/open?id=1Odh2Gqw3QF0RocI8zHdsmLVzB-dsf79z) |
 |4| Studio - Photos |[Studio_Photos](https://vuquangnguyen2018.github.io/WebStudio/) |
 |5| Accomplishment | [Learning Python](https://github.com/vuquangnguyen2016/Webpage/issues/13) -  [Learning Matlab](https://github.com/vuquangnguyen2016/Webpage/issues/14) -  [GoogleDrive.Sach](https://drive.google.com/open?id=0Bz6XJs6zpII1MVNyVGZiLXhkeUk)|
 
