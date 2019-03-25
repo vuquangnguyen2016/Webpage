@@ -7,7 +7,7 @@
 
 |STT |ID.Information|Get|
 |:--:|:--:|:--:|
-|1|My repository - Database Workforce |[WorkspaceDistrict5](https://drive.google.com/open?id=1YBh_jSWHaWynDgG2tZ93g8WGAhiv2hWQ) - [DataCenter](https://drive.google.com/open?id=1mCCS0pCrIU6l2RvENKscfRwmIl4qk5ua)|
+|1|My repository - Database Workforce |[Workspace](https://drive.google.com/open?id=1YBh_jSWHaWynDgG2tZ93g8WGAhiv2hWQ) |
 |2| Thu Vien |[Goto_Link](https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien) - [DataLibrary](https://drive.google.com/open?id=1RBE9CtaFYegCJBFkYM5ez42JO_byCCUR) - [ExamBanking](https://drive.google.com/open?id=1Odh2Gqw3QF0RocI8zHdsmLVzB-dsf79z) |
 |3| Studio - Photos |[Studio_Photos](https://vuquangnguyen2018.github.io/WebStudio/) |
 
