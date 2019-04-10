@@ -11,9 +11,9 @@
 |1|Database |[Workspace](https://drive.google.com/open?id=1YBh_jSWHaWynDgG2tZ93g8WGAhiv2hWQ) - [DataCenter](https://www.dropbox.com/sh/43ije8a5q45yso1/AADyz1VXaaCRS5gknlilnlbha?dl=0) |
 |2| Thu Vien |[Goto_Link](https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien) - [DataLibrary](https://drive.google.com/open?id=1RBE9CtaFYegCJBFkYM5ez42JO_byCCUR) - [ExamBanking](https://drive.google.com/open?id=1Odh2Gqw3QF0RocI8zHdsmLVzB-dsf79z) |
 |3| Studio - Photos |[Studio_Photos](https://vuquangnguyen2018.github.io/WebStudio/) |
-
-
-
+# CV - 2019
+![CV---VU-QUANG-NGUYEN---Update-Spring-2019](https://user-images.githubusercontent.com/41269309/55851451-d6da0800-5b82-11e9-921a-55f0e8dd97cf.png)
+![Logo](https://user-images.githubusercontent.com/41269309/48658421-f35e9200-ea73-11e8-99e8-c45c2a1a6095.jpg)
 ```html
 
 My dream was bring to Vietnam a tribute success dedicated to 
