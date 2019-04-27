@@ -1,5 +1,5 @@
 # Site
-name: 'VU QUANG NGUYEN'
+name: 'Webpage'
 description: 'Webpage - Vu Quang Nguyen'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -20,12 +20,12 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           Vu Quang Nguyen - Administrator
       site:           https://vuquangnguyen2016.github.io/Webpage/
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells my knowledge and vision.It was not simply a result of experiment, but something that we created especially with love and passion for Vietnam and all the people around the world who loves Nuclear physics. From the bottom of my heart, I would like to express my gratitude to my friends and my teachers.. I hope you like it!"
+      email:          vuquangnguyen2018@gmail.com
+      facebook:       https://www.facebook.com/nguyenquangvu.HCMUS.KTH
 
     jane:
       name:           Jane
