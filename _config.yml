@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    admin:
       name:           Vu Quang Nguyen - Administrator
       site:           https://vuquangnguyen2016.github.io/Webpage/
       avatar:         /assets/images/avatar1.jpg
