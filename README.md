@@ -259,6 +259,7 @@
 |  FRI.Pagoda.DD  |       Anh-Chua Giac Ngo       |              0909159121              |            key='Chua Giac Ngo + 'Tu Thien'             |                  |
 |  FRI.Pagoda.DD  |       Ngo Tri Vien -Chua Giac Ngo       |             0708129791              |            key='Chua Giac Ngo + 'Tu Thien'             |                  |
 |  FRI.Pagoda.DD  |      Hai Trieu -Chua Giac Ngo       |              0777767121              |            key='Chua Giac Ngo + 'Tu Thien'             |                  |
+|  FRI.NhaTro  |      Pham Thi Hai        |            0368578567           |            key='Nha Tro Thu Duc' + 'Thu Duc'             |                  |
 
 <!-- --- -->
 
