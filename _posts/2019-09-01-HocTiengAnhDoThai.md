@@ -2,7 +2,7 @@
 layout: post
 title:  "Học Từ vựng tiếng anh theo phương pháp Do Thái"
 author: Tuyen Nguyen (bichtuyen.nguyen.3557440)
-categories: [ Jekyll, tutorial ]
+categories: [ TOEIC, Volcabulary ]
 image: 
 tags: [TiengAnh]
 ---
