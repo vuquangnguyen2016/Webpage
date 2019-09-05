@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Những bài học của bạn"
+author: LeQuang
+categories: [ TamSu,HocTap ]
+image: 
+tags: [TamSu,Hoctap]
+---
+
 who you are?
 what you do?
 who you do it for?
