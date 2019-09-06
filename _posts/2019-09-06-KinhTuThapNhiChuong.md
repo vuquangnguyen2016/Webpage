@@ -10,6 +10,10 @@ tags: [KinhPhat]
 # Kinh Tứ Thập Nhị Chương [Link](https://quangduc.com/a1951/kinh-tu-thap-nhi-chuong)
 ## Thích Viên Giác dịch
 
+<p> 
+    <iframe width="768" height="432" src="https://www.youtube.com/embed/H8Ptb2gH5tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</p>
 
 ## Chương Mở Đầu:
 
