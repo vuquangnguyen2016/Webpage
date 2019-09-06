@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
-author: jane
-categories: [ Jekyll, tutorial ]
+title:  "Những lời Phật dạy"
+author: 
+categories: [ KinhPhat ]
 image: assets/images/home.jpg
-tags: [sticky]
+tags: [KinhPhat]
 ---
 
 Dưới đây là 66 lời Phật dạy về cuộc sống, những câu nói khá hay của Phật giáo. Các bạn mong muốn tìm hiểu đạo Phật nên đọc và suy ngẫm, sẽ giúp tâm thanh tịnh hơn giữa bộn bề lo toan trong cuộc sống.
