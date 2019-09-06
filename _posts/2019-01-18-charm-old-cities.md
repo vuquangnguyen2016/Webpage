@@ -2,9 +2,9 @@
 layout: post
 title:  "Những lời Phật dạy"
 author: 
-categories: [ KinhPhat ]
+categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
-tags: [KinhPhat]
+tags: [sticky]
 ---
 
 Dưới đây là 66 lời Phật dạy về cuộc sống, những câu nói khá hay của Phật giáo. Các bạn mong muốn tìm hiểu đạo Phật nên đọc và suy ngẫm, sẽ giúp tâm thanh tịnh hơn giữa bộn bề lo toan trong cuộc sống.
