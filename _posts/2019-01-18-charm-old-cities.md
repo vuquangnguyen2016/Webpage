@@ -8,6 +8,9 @@ tags: [sticky]
 ---
 
 Dưới đây là 66 lời Phật dạy về cuộc sống, những câu nói khá hay của Phật giáo. Các bạn mong muốn tìm hiểu đạo Phật nên đọc và suy ngẫm, sẽ giúp tâm thanh tịnh hơn giữa bộn bề lo toan trong cuộc sống.
+<p> 
+<iframe width="768" height="432" src="https://www.youtube.com/embed/FUrCXC1b3wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 + Sở dĩ người ta đau khổ chính vì mãi đeo đuổi những thứ sai lầm.
 + Nếu anh không muốn rước phiền não vào mình, thì người khác cũng không cách nào gây phiền não cho bạn. Vì chính tâm bạn không buông xuống nổi.
