@@ -250,16 +250,19 @@ FRI.Pagoda.DD,   Anh-Chua Giac Ngo       |  ,909159121,            key='Chua Gia
 FRI.Pagoda.DD,   Ngo Tri Vien -Chua Giac Ngo,708129791,            key='Chua Giac Ngo + 'Tu Thien'             | ,
 FRI.Pagoda.DD,  Hai Trieu -Chua Giac Ngo    ,777767121,            key='Chua Giac Ngo + 'Tu Thien'             | ,
 FRI.NhaTro  ,Pham Thi Hai  ,368578567,            key='Nha Tro Thu Duc' + 'Thu Duc'             ,
-VTV3,Vu Thanh Huong,,,1263018986
-VTV3,Lê Mỹ Cường,,,1132655122
-VTV3,Nguyễn Quỳnh Châu,,,100001618040886
-VTV9,Hoàng Thị Phương Thảo,,,100004080040114
-VTV1,Nguyen Hoai Anh,,,100000165704929
-VTV1,Trần Minh Trang,,,100003108651410
-VTV1,Nguyễn Hữu Bằng,,,100013410937910
-VTV1,Thuy Hang Pham,,,100000171235245
-VTV1,Bảo Đức Bùi,,,607435742
-VTV1,MC Duong Hong Phuc,,,100000020884404
-VTV24,Ngoc Trinh Duong,,,100000091041733
-VTV24,Nguyễn Thuỵ Vân,,,574677604
-VTV24,Trần Hạnh Phúc,,,100000150452914
+VTV3,Vu Thanh Huong,Invisible,,1263018986
+VTV3,Lê Mỹ Cường,Invisible,,1132655122
+VTV3,Nguyễn Quỳnh Châu,Invisible,,100001618040886
+VTV9,Hoàng Thị Phương Thảo,Invisible,,100004080040114
+VTV1,Nguyen Hoai Anh,Invisible,,100000165704929
+VTV1,Trần Minh Trang,Invisible,,100003108651410
+VTV1,Nguyễn Hữu Bằng,Invisible,,100013410937910
+VTV1,Thuy Hang Pham,Invisible,,100000171235245
+VTV1,Bảo Đức Bùi,Invisible,,607435742
+VTV1,MC Duong Hong Phuc,Invisible,,100000020884404
+VTV24,Ngoc Trinh Duong,Invisible,,100000091041733
+VTV24,Nguyễn Thuỵ Vân,Invisible,,574677604
+VTV24,Trần Hạnh Phúc,Invisible,"""Nov.07.1986""  + 'NamDinh'",100000150452914
+VTV24,Bui Minh Hang,Invisible,,641618150
+VTV24,Hoa Tra,Visible,,1840519528
+VTV24,Nguyễn Hữu Trí,Invisible,,100006143743253
