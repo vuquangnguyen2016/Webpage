@@ -81,7 +81,7 @@ Khỏi an lạc, đau khổ.
 
 #3498DB
 <div style="text-align:center">
-    <span style="color:rgb(184, 13, 147); font-family: Cambria, Georgia, serif; font-size:12px;">
+    <span style="color:rgb(184, 13, 147); font-family: Cambria, Georgia, serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 17.1429px;">
         <p>Chỗ nào nước và đất,</p> 
         <p>Lửa, gió không chấp trước,</p> 
         <p>Tại đây sao không chói,</p> 
