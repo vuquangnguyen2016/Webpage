@@ -173,7 +173,7 @@ tags: [Buddism]
 
 
 <div>
-    <style type="text/css">
+    <style>
     a {
     
     }
