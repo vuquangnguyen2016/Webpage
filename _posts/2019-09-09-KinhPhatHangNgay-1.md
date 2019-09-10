@@ -57,7 +57,25 @@ The goal of the Women’s Enterprise Action Loan Fund, (WEALF): helping women bu
 
 ->THIS TEXT IS IN THE CENTER!<-
 ->  Chỗ nào nước và đất, <-
+<center>
+<h2>How Not to Center with HTML</h2>
+<p>This text may be centered...but you would be better off using CSS to center text or other elements on a web page.</p>
+</center>
 
+<center>
+Chỗ nào nước và đất,
+Lửa, gió không chấp trước,
+Tại đây sao không chói,
+Mặt trời không chiếu sáng,
+Tại đây trăng không chiếu,
+Tại đây u ám không,
+Khi ẩn sĩ Phạm chí,
+Tự mình với trí tuệ,
+Thể nhập vào Chánh pháp,
+Vị ấy được giải thoát
+Khỏi sắc và vô sắc,
+Khỏi an lạc, đau khổ.
+</center>
 
 
 
