@@ -81,7 +81,7 @@ Khỏi an lạc, đau khổ.
 
 #3498DB
 <div style="text-align:center">
-    <span style="color:rgb(184, 13, 147); font-family:Georgia; font-size:0.75em;">
+    <span style="color:rgb(184, 13, 147); font-family: Cambria, Georgia, serif; font-size:12px;">
         <p>Chỗ nào nước và đất,</p> 
         <p>Lửa, gió không chấp trước,</p> 
         <p>Tại đây sao không chói,</p> 
@@ -98,3 +98,5 @@ Khỏi an lạc, đau khổ.
     </span>
 </div>
 <color>
+
+    h1 { font-family: Cambria, Georgia, serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Cambria, Georgia, serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Cambria, Georgia, serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 17.1429px; } blockquote { font-family: Cambria, Georgia, serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Cambria, Georgia, serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
