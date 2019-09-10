@@ -54,3 +54,4 @@ Rồi Thế Tôn sau khi hiểu biết ý nghĩa này, ngay trong lúc ấy, nó
 
 Lời cảm hứng này được Thế Tôn thuyết giảng và tôi được nghe như vậy.
 
+Link Goc: [Go](https://www.budsas.org/uni/u-kinh-tieubo1/tb13-ptt1.htm)
