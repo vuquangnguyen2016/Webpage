@@ -9,12 +9,6 @@ tags: [Buddism]
 
 
 
-<div>
-    <style>
-            p {
-            font-size: 14px;
-        }
-    </style>
 <p>
 	Như vầy tôi nghe:
 </p>
@@ -165,79 +159,12 @@ tags: [Buddism]
     Lời cảm hứng này được Thế Tôn thuyết giảng và tôi được nghe như vậy.
 
 </p>
-</div>
+
 
 
 ***
 
-
-
 <div>
-    <style>
-    a {
-    
-    }
-    
-    
-    a:link {
-    
-    }
-    
-    a:visited {
-    
-    }
-    
-    a:focus {
-    
-    }
-    
-    a:hover {
-    
-    }
-    
-    a:active {
-    
-    }body {
-      width: 300px;
-      margin: 0 auto;
-      font-size: 1.2rem;
-      font-family: sans-serif;
-    }
-    
-    p {
-      line-height: 1.4;
-    }
-    
-    a {
-      outline: none;
-      text-decoration: none;
-      padding: 2px 1px 0;
-    }
-    
-    a:link {
-      color: #c00b8a;
-    }
-    
-    a:visited {
-      color: #437A16;
-    }
-    
-    a:focus {
-      border-bottom: 1px solid;
-      background: rgb(255, 188, 233);
-    }
-    
-    a:hover {
-      border-bottom: 1px solid;     
-      background: #CDFEAA;
-    }
-    
-    a:active {
-      background: #265301;
-      color: #CDFEAA;
-    }
-      
-    </style>
 
     <p>
         Link gốc: <a href="https://www.budsas.org/uni/u-kinh-tieubo1/tb13-ptt1.htm">Kinh Phật Tự Thuyết - BuddhaSasana </a>.
