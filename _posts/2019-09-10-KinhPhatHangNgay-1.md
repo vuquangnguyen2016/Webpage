@@ -23,6 +23,7 @@ Lần thứ hai Bàhiya Dàruciriya Bạch Thế Tôn:
 - Thật khó biết, bạch Thế Tôn, là chướng ngại cho mạng sống của Thế Tôn, hay chướng ngại cho mạng sống của con. Bạch Thế Tôn, Thế Tôn hãy thuyết pháp cho con. Thiện Thệ hãy thuyết pháp cho con, nhờ vậy con có thể được hạnh phúc an lạc lâu dài.
 Lần thứ hai, Thế Tôn nói với Màhiya Dàruciriya:
 - Không phải thời, này Bàhiya, Ta đang khất thực.
+
 Lần thứ ba, Bàhiya Dàruciriya bạch Thế Tôn:
 - Thật khó biết... hạnh phúc lâu dài.
 - Vậy này Bàhiya, Ông cần phải học tập như sau: "Trong cái thấy, sẽ chỉ là cái thấy. Trong cái nghe, sẽ chỉ là cái nghe. Trong cái thọ tưởng, sẽ chỉ là cái thọ tưởng. Trong cái thức tri, sẽ chỉ là các thức tri ". Như vậy, này Bàhiya, Ông cần phải học tập. Vì rằng, này Bàhiya, nếu với Ông, trong cái thấy, sẽ chỉ là cái thấy; trong cái nghe, sẽ chỉ là cái nghe; trong cái thọ tưởng, sẽ chỉ là cái thọ tưởng; trong cái thức tri, sẽ chỉ là cái thức tri. Do vậy, này Bàhiva, ông không là chỗ ấy. Vì rằng, này Bàhiya, Ông không là đời này, không là đời sau, không là đời chặng giữa. Như vậy là đoạn tận khổ đau.
@@ -55,4 +56,13 @@ Rồi Thế Tôn sau khi hiểu biết ý nghĩa này, ngay trong lúc ấy, nó
 Lời cảm hứng này được Thế Tôn thuyết giảng và tôi được nghe như vậy.
 
 ***
-Link Goc: [Go](https://www.budsas.org/uni/u-kinh-tieubo1/tb13-ptt1.htm)
+Link Goc: [Link1](https://www.budsas.org/uni/u-kinh-tieubo1/tb13-ptt1.htm) +  [Link2](https://sites.google.com/site/tieubokinhtheravada/kinh-phat-tu-thuyet-cam-hung-ngu-udana-chuong-1-3)
+
+
+<p style="font-family: 'Open Sans', Arial, sans-serif;">hi</p>
+<p style="font-family: 'Open Sans', Arial, sans-serif;">there</p>
+<div id="wrap" a="b">
+    <div class="wrap" id="wrap-2" style="display: inline-block;">
+      <div id="a" style="background: green; border-color: green; color: red; display: block;"></div>
+    </div>
+  </div>
