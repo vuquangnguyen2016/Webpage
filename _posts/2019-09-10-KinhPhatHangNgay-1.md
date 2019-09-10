@@ -33,55 +33,9 @@ Các vị Tỷ-kheo ấy vâng đáp Thế Tôn, sau khi đặt xác thân của
 - Bạch Thế Tôn, thân xác của Bàhiya Dàruciriya đã được hỏa thiêu, tháp đã được xây dựng xong cho vị ấy. Sanh thứ cho vị ấy là gì? Ðời sau vị ấy là gì?
 - Này các Tỷ-kheo, Hiền trí là Bàhiya Dàruciriya đã hành trì tùy pháp, đúng pháp và không có phiền nhiễu Ta với những tranh luận về pháp. Này các Tỷ-kheo, Bàhiya Dàruciriya đã nhập Niết Bàn.
 Rồi Thế Tôn sau khi hiểu biết ý nghĩa này, ngay trong lúc ấy, nói lên lời cảm hứng này:
-Chỗ nào nước và đất,
-Lửa, gió không chấp trước,
-Tại đây sao không chói,
-Mặt trời không chiếu sáng,
-Tại đây trăng không chiếu,
-Tại đây u ám không,
-Khi ẩn sĩ Phạm chí,
-Tự mình với trí tuệ,
-Thể nhập vào Chánh pháp,
-Vị ấy được giải thoát
-Khỏi sắc và vô sắc,
-Khỏi an lạc, đau khổ.
-Lời cảm hứng này được Thế Tôn thuyết giảng và tôi được nghe như vậy.
 
 <div style="text-align:center">
-    <span style="color:#2E86C1; font-family:Georgia; font-size:0.75em;">
-
-The goal of the Women’s Enterprise Action Loan Fund, (WEALF): 
-helping women business owners become financially self-sufficient.
-
-    </span>
-</div>
-
-->THIS TEXT IS IN THE CENTER!<-
-->  Chỗ nào nước và đất, <-
-<center>
-<h2>How Not to Center with HTML</h2>
-<p>This text may be centered...but you would be better off using CSS to center text or other elements on a web page.</p>
-</center>
-
-<center>
-Chỗ nào nước và đất,
-Lửa, gió không chấp trước,
-Tại đây sao không chói,
-Mặt trời không chiếu sáng,
-Tại đây trăng không chiếu,
-Tại đây u ám không,
-Khi ẩn sĩ Phạm chí,
-Tự mình với trí tuệ,
-Thể nhập vào Chánh pháp,
-Vị ấy được giải thoát
-Khỏi sắc và vô sắc,
-Khỏi an lạc, đau khổ.
-</center>
-
-
-#3498DB
-<div style="text-align:center">
-    <span style="color:rgb(184, 13, 147); font-family: Cambria, Georgia, serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 17.1429px;">
+    <span style="color:rgb(184, 13, 147); font-family: Cambria, Georgia, serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 17.1429px;">
         <p>Chỗ nào nước và đất,</p> 
         <p>Lửa, gió không chấp trước,</p> 
         <p>Tại đây sao không chói,</p> 
@@ -97,6 +51,6 @@ Khỏi an lạc, đau khổ.
 
     </span>
 </div>
-<color>
 
-    h1 { font-family: Cambria, Georgia, serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Cambria, Georgia, serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Cambria, Georgia, serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 17.1429px; } blockquote { font-family: Cambria, Georgia, serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Cambria, Georgia, serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+Lời cảm hứng này được Thế Tôn thuyết giảng và tôi được nghe như vậy.
+
