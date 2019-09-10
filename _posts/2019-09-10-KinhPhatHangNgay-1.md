@@ -10,13 +10,8 @@ tags: [Buddism]
 
 
 <div>
-    <style type="text/css">
-        body { font-family:sans-serif; }
-        h1 {
-            font-family:sans-serif;
-            margin-bottom: 0;
-        }
-        p {
+    <style>
+            p {
             font-size: 14px;
         }
     </style>
