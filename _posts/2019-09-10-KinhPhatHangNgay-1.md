@@ -47,13 +47,13 @@ Khỏi sắc và vô sắc,
 Khỏi an lạc, đau khổ.
 Lời cảm hứng này được Thế Tôn thuyết giảng và tôi được nghe như vậy.
 
-<div style="text-align:center"><span style="color:#2E86C1; font-family:Georgia; font-size:2em;">
+<div style="text-align:center">
+    <span style="color:#2E86C1; font-family:Georgia; font-size:0.75em;">
 
 The goal of the Women’s Enterprise Action Loan Fund, (WEALF): 
 helping women business owners become financially self-sufficient.
 
-</span>
-
+    </span>
 </div>
 
 ->THIS TEXT IS IN THE CENTER!<-
@@ -79,4 +79,22 @@ Khỏi an lạc, đau khổ.
 </center>
 
 
+#3498DB
+<div style="text-align:center">
+    <span style="color:rgb(184, 13, 147); font-family:Georgia; font-size:0.75em;">
+        <p>Chỗ nào nước và đất,</p> 
+        <p>Lửa, gió không chấp trước,</p> 
+        <p>Tại đây sao không chói,</p> 
+        <p>Mặt trời không chiếu sáng,</p> 
+        <p>Tại đây trăng không chiếu,</p>
+        <p>Tại đây u ám không, </p>
+        <p>Khi ẩn sĩ Phạm chí, </p>
+        <p>Tự mình với trí tuệ, </p>
+        <p>Thể nhập vào Chánh pháp, </p>
+        <p>Vị ấy được giải thoát </p>
+        <p>Khỏi sắc và vô sắc, </p>
+        <p>Khỏi an lạc, đau khổ. </p>
 
+    </span>
+</div>
+<color>
