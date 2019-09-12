@@ -384,12 +384,19 @@ When the Mind Is Still, Desire Is Dispelled
 >The Buddha said, "There was once someone who was plagued by ceaseless sexual desire and wished to castrate himself. The Buddha said to him, 'To cut off your sexual organ would not be as good as to cut off your mind. Your mind is like a supervisor: if the supervisor stops, his employees will also quit. If the deviant mind is not stopped, what good does it do to cut off the organ?'"
 
 The Buddha spoke a verse for him:
+<blockquote>
 
-   Desire is born from your intentions.
-   Intentions are born from thoughts.
-   When both aspects of the mind are still,
-   There is neither form nor activity.
-
+    Desire is born from your intentions.
+    <br>
+    Intentions are born from thoughts.
+    
+    <br>
+    When both aspects of the mind are still,
+    
+    <br>
+    There is neither form nor activity.
+    
+</blockquote>
 >The Buddha said, "This verse was spoken by the  Buddha Kashyapa."
 
 #### Section  32
@@ -406,17 +413,26 @@ Wisdom and Clarity Defeat the Demons
 
 #### Section  34
 By Staying in the Middle, One Attains the Way
+<blockquote>
 
-One evening a Shramana was reciting the Sutra of the Teaching Bequeathed by the Buddha Kashyapa. The sound of his voice was mournful as he reflected remorsefully on his wish to retreat in cultivation. The Buddha asked him, "In the past when you were a householder, what did you do?"
-He replied, "I was fond of playing the lute."
-The Buddha said, "What happened when the strings were slack?"
-He replied, "They didn't sound."
-"What happened when they were too tight?"
-He replied, "The sounds were cut short."
-"What happened when they were tuned just right between slack and tight?"
-He replied, "The sounds car-ried."
-The Buddha said, "It is the same with a Shrama-na who studies the Way.
-
+    One evening a Shramana was reciting the Sutra of the Teaching Bequeathed by the Buddha Kashyapa. The sound of his voice was mournful as he reflected remorsefully on his wish to retreat in cultivation. The Buddha asked him, "In the past when you were a householder, what did you do?"
+    <br>
+    He replied, "I was fond of playing the lute."
+    The Buddha said, "What happened when the strings were slack?"
+    
+    <br>
+    He replied, "They didn't sound."
+    "What happened when they were too tight?"
+    
+    <br>
+    He replied, "The sounds were cut short."
+    "What happened when they were tuned just right between slack and tight?"
+    
+    <br>
+    He replied, "The sounds car-ried."
+    The Buddha said, "It is the same with a Shrama-na who studies the Way.
+    
+</blockquote>
 If his mind is harmonious, he can attain the Way. If he is impetuous about the Way, his impetuousness will tire out his body; and if his body is tired, his mind will become afflicted. If his mind becomes afflicted, then he will retreat from his practice. If he retreats from his practice, his offenses will certainly increase. You need only be pure, peaceful, and happy, and you will not lose the Way."
 
 #### Section  35
@@ -427,15 +443,27 @@ When One Is Purified of Defilements, the Brilliance Remains
 #### Section  36
 The Sequence that Leads to Success
 
-The Buddha said, "It is difficult for one to leave the evil destinies and become a human being.
-"Even if one does become a human being, it is still difficult to become a man rather than a woman.
-"Even if one does become a man, it is still difficult to have the six sense organs complete and perfect.
-"Even if the six sense organs are complete and perfect, it is still difficult for one to be born in a central country.
-"Even if one is born in a central country, it is still difficult to be born at a time when there is a Buddha in the world.
-"Even if one is born at a time when there is a Buddha in the world, it is still difficult to encounter the Way.
-"Even if one does encounter the Way, it is still difficult to bring forth faith.
-"Even if one brings forth faith, it is still difficult to resolve one's mind on Bodhi.
-"Even if one does resolve one's mind on Bodhi, it is still difficult to be beyond cultivation and attainment."
+<blockquote>
+
+    The Buddha said, "It is difficult for one to leave the evil destinies and become a human being. 
+    <br>
+    "Even if one does become a human being, it is still difficult to become a man rather than a woman.
+    <br>
+    "Even if one does become a man, it is still difficult to have the six sense organs complete and perfect.
+    <br>
+    "Even if the six sense organs are complete and perfect, it is still difficult for one to be born in a central country.
+    <br>
+    "Even if one is born in a central country, it is still difficult to be born at a time when there is a Buddha in the world.
+    <br>
+    "Even if one is born at a time when there is a Buddha in the world, it is still difficult to encounter the Way.
+    <br>
+    "Even if one does encounter the Way, it is still difficult to bring forth faith.
+    <br>
+    "Even if one brings forth faith, it is still difficult to resolve one's mind on Bodhi.
+    <br>
+    "Even if one does resolve one's mind on Bodhi, it is still difficult to be beyond cultivation and attainment."
+    
+</blockquote>
 
 #### Section  37
 Staying Mindful of Moral Precepts Brings Us Close to the Way
@@ -445,11 +473,16 @@ The Buddha said, "My disciples may be several thousand miles away from me, but i
 
 #### Section  38
 Birth Leads to Death
-
-The Buddha asked a Shramana, "How long is the human life span?" He replied, "A few days." The Buddha said, "You have not yet understood the Way."
-He asked another Shramana, "How long is the human life span?" The reply was, "The space of a meal." >The Buddha said, "You have not yet understood the Way."
-He asked another Shramana, "How long is the human life span?" He replied, "The length of a single breath." >The Buddha said, "Excellent. You have understood the Way."
-
+<blockquote>
+    
+    The Buddha asked a Shramana, "How long is the human life span?" He replied, "A few days." The Buddha said, "You have not yet understood the Way."
+    <br>
+    He asked another Shramana, "How long is the human life span?" The reply was, "The space of a meal." >The Buddha said, "You have not yet understood the Way."
+    
+    <br>
+    He asked another Shramana, "How long is the human life span?" He replied, "The length of a single breath." >The Buddha said, "Excellent. You have understood the Way."
+</blockquote>
+    
 #### Section  39
 The Buddha's Instructions Are Not Biased
 
