@@ -46,3 +46,9 @@ When we consider our complete mental and physical existence in the light of the 
 <p align="center">
 	<img border="0" alt="12 Causes" align="center" src="https://rk-world.org/images/cms/12_causes.gif" width="631" height="554">
 </p>
+
+***
+
+<p>
+	Link goc: <a href="https://rk-world.org/12causes.aspx"> The Law of the Twelve-linked Chain Dependent Origination </a>
+</p>
