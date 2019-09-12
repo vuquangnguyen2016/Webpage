@@ -50,6 +50,10 @@ My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells
     <iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 640; height: 700; position: absolute;" allowfullscreen>
 </iframe>
  -->
-<iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 640; height: 700; position: absolute;" allowfullscreen>
-</iframe>
+
+ <div>
+     <iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 640; height: 700; position: absolute;" allowfullscreen>
+     </iframe>
+
+ </div>
 
