@@ -2,7 +2,7 @@
 layout: post
 title:  "Vu Quang Nguyen-Info"
 categories: [ Information ]
-image: assets/images/demo1.jpg
+image: https://user-images.githubusercontent.com/36990033/40307517-09827df0-5d2d-11e8-818c-42934c097ccc.jpg
 tags: [featured]
 ---
 

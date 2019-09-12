@@ -3,8 +3,8 @@ layout: post
 title:  "Một ngày rong chơi - 05.09.2019"
 author: LeQuang
 categories: [ TamSu,GiaiTri ]
-image: 
-tags: [sticky]
+image: https://miro.medium.com/max/1000/0*nk9nP4O2uX7kFVYN
+tags: [Flee]
 ---
 
 ## Cuộc sống là chảy (Life is running)

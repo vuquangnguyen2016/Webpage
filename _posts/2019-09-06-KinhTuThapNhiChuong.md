@@ -4,7 +4,7 @@ title:  "Kinh Tứ Thập Nhị Chương"
 author: Đức Phật Thích Ca
 categories: [ KinhPhat,TuThapNhiChuong ]
 image: 
-tags: [featured]
+tags: [sticky]
 ---
 
 # Kinh Tứ Thập Nhị Chương [Link](https://quangduc.com/a1951/kinh-tu-thap-nhi-chuong)
