@@ -24,5 +24,5 @@ My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells
 
 ### CV - 2019
 <p>
-    <img src="https://user-images.githubusercontent.com/36990033/64752952-a3454480-d54b-11e9-9e73-0156baeb7c2c.jpg" alt="vuquangnguyen2018" align="center" width="2480" height="3508"  >
+    <img src="https://user-images.githubusercontent.com/36990033/64752952-a3454480-d54b-11e9-9e73-0156baeb7c2c.jpg" alt="vuquangnguyen2018" align="center" width="709" height="1002"  >
 </p>
