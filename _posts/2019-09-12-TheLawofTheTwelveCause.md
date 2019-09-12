@@ -3,8 +3,8 @@ layout: post
 title:  "The Twelve Causes and Conditions"
 author: 
 categories: [ Buddhism ]
-image: 
-tags: [Buddhism]
+image: https://en.wikipedia.org/wiki/File:Traditional_bhavachakra_wall_mural_of_Yama_holding_the_wheel_of_life,_Buddha_pointing_the_way_out.jpg
+tags: [feautured]
 ---
 ### the Twelve Causes and Conditions
 
@@ -12,7 +12,8 @@ The teaching of the Twelve Causes and Conditions (dvadasanga-pratityasamutpada i
 
 This teaching explains how people are born, mature physically, age, and die, tracing the causes and conditions of the process through the three worlds of past, present, and future. The Buddha goes on to explain that there is a similar principle of cause and effect in the evolution of our minds and teaches a fundamental method of purifying our minds and ridding ourselves of delusion.
 
-The twelve stages in the process are (1) ignorance, (2) actions, (3) consciousness, (4) name and form, (5) the six sense organs, (6) contact, (7) sensation, (8) craving, (9) grasping, (10) becoming, (11) birth, and (12) old age and death. Let us look first at these phases in terms of the development and transmigration of the body.
+> The twelve stages in the process are (1) ignorance, (2) actions, (3) consciousness, (4) name and form, (5) the six sense organs, (6) contact, (7) sensation, (8) craving, (9) grasping, (10) becoming, (11) birth, and (12) old age and death. Let us look first at these phases in terms of the development and transmigration of the body.
+
  Ignorance (avidya in Sanskrit) is written in Chinese with ideographs meaning "no light," or darkness, light being knowledge. The various kinds of karma that we have accumulated over the course of past lives lead us to repeat actions (samskara) whose fundamental cause is ignorance. These two steps belong to the world of the past. The spirit bearing such karma based on ignorance comes to reside in the mother's womb as a result of the parents' sexual activity.
 
 When that spirit takes up residence in the womb, in other words, at the moment of conception, consciousness (vijnana) arises, though it is as yet incomplete. This is the true moment of birth; it is our entrance to the world of the present. As that incomplete consciousness gradually develops, it becomes name and form (nama-rupa). "Name" refers to the mind, in the sense of intangible, spiritual existence. "Form" - tangible, or physical, existence - refers to the body.
@@ -39,7 +40,7 @@ With grasping, various emotions, ideas, and opinions are generated. This process
 
 The sufferings of our lives are generated in this fashion. And their ultimate cause is the ignorance at the root of the process. All suffering is caused by not knowing or by ignoring the Law that is applicable to all things (the universal truth), the correct view of the world and of life.
 
-If only we can rid ourselves of this ignorance and recognize the truth, our actions will also be correct. Each new mental act will correspond to the truth, and friction and obstructions will disappear. Suffering will fade from our minds, and we will be able to achieve peace of mind. This is the conclusion to which this teaching draws us.
+>If only we can rid ourselves of this ignorance and recognize the truth, our actions will also be correct. Each new mental act will correspond to the truth, and friction and obstructions will disappear. Suffering will fade from our minds, and we will be able to achieve peace of mind. This is the conclusion to which this teaching draws us.
 
 When we consider our complete mental and physical existence in the light of the teaching of the Twelve-linked Chain of Dependent Origination, we realize that we were born as ordinary human beings because of ignorance in our previous life. But if, in the present life, we can correctly discern all things, freed of ignorance and informed with the wisdom of the Buddha, and then accumulate correct deeds (karma), we will eventually be able to escape from transmigration and become buddhas.
 
