@@ -3,7 +3,7 @@ layout: post
 title:  "The Twelve Causes and Conditions"
 author: 
 categories: [ Buddhism ]
-image: https://en.wikipedia.org/wiki/File:Traditional_bhavachakra_wall_mural_of_Yama_holding_the_wheel_of_life,_Buddha_pointing_the_way_out.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/4/40/Traditional_bhavachakra_wall_mural_of_Yama_holding_the_wheel_of_life%2C_Buddha_pointing_the_way_out.jpg
 tags: [feautured]
 ---
 ### the Twelve Causes and Conditions
