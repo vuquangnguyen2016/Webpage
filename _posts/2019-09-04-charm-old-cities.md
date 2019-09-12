@@ -3,7 +3,7 @@ layout: post
 title:  "Những lời Phật dạy"
 author: 
 categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+image: https://www.worldatlas.com/r/w728-h425-c728x425/upload/0d/21/7d/shutterstock-540613144.jpg
 tags: [sticky]
 ---
 
