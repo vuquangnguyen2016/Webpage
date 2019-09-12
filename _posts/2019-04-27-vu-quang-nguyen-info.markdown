@@ -21,3 +21,8 @@ My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells
 - Datacenter: [Sharing File Database](https://www.dropbox.com/sh/43ije8a5q45yso1/AADyz1VXaaCRS5gknlilnlbha?dl=0)
 - Flickr: [LeQuang Photos](https://www.flickr.com/photos/vuquangnguyen2018/)
 - Thesis: [Group](https://www.dropbox.com/sh/3ozcma4rdm8oo1m/AABeGxA7KnQWACVFa-r7pnSTa?dl=0) + [Group2](https://1drv.ms/f/s!AkLKkIG8EJNHgz4KErwC3CHhdzAg)
+
+### CV - 2019
+<p>
+    CV: <a href="https://user-images.githubusercontent.com/36990033/64752952-a3454480-d54b-11e9-9e73-0156baeb7c2c.jpg">CV VU QUANG NGUYEN</a>
+</p>
