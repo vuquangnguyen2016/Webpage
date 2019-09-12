@@ -501,7 +501,7 @@ A Straight Mind Gets Rid of Desire
 #### Section  42
 Understanding that the World Is Illusory
 
-The Buddha said, "I look upon royalty and high positions as upon the dust that floats through a crack. I look upon treasures of gold and jade as upon broken tiles. I look upon fine silk clothing as upon cheap cotton. I look upon a great thousand-world universe as upon a small nut kernel. I look upon the waters of the Anavatapta Lake as upon oil used to anoint the feet."
+> The Buddha said, "I look upon royalty and high positions as upon the dust that floats through a crack. I look upon treasures of gold and jade as upon broken tiles. I look upon fine silk clothing as upon cheap cotton. I look upon a great thousand-world universe as upon a small nut kernel. I look upon the waters of the Anavatapta Lake as upon oil used to anoint the feet."
 
 ***
 <p>
