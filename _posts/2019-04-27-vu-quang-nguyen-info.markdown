@@ -49,11 +49,13 @@ My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells
     Vi du: 
     <iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 640; height: 700; position: absolute;" allowfullscreen>
 </iframe>
+
+https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be
  -->
 ***
 
  <div>
-     <iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus"  width="813" height="457"  allowfullscreen>
+     <iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus"  width="813" height="457" frameborder="0" allowfullscreen>
      </iframe>
 
  </div>
