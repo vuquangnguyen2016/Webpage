@@ -4,7 +4,7 @@ title:  "Kinh Phật Tự Thuyết (Cảm Hứng Ngữ) Udàna - Phẩm Bồ Ð�
 author: 
 categories: [ Buddhism ]
 image: 
-tags: [Buddism]
+tags: [featured]
 ---
 
 
