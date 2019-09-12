@@ -355,7 +355,7 @@ Demons from the Heavens Try to Tempt the Buddha
 
 The heaven spirit offered beautiful maidens to the Buddha, hoping to destroy his resolve.
 
-The Buddha said, "What have you skin-bags full of filth come here for? Go away, I've got no use for you."
+> The Buddha said, "What have you skin-bags full of filth come here for? Go away, I've got no use for you."
 Then the heaven spirit became very respectful and asked about the meaning of the Way. The Buddha explained it for him, and he immediately attained the fruition of Srotaapanna.
 
 #### Section  27
@@ -397,7 +397,7 @@ The Buddha spoke a verse for him:
     There is neither form nor activity.
     
 </blockquote>
->The Buddha said, "This verse was spoken by the  Buddha Kashyapa."
+The Buddha said, "This verse was spoken by the  Buddha Kashyapa."
 
 #### Section  32
 Emptying out the Self Quells Fear
@@ -468,7 +468,7 @@ The Sequence that Leads to Success
 #### Section  37
 Staying Mindful of Moral Precepts Brings Us Close to the Way
 
-The Buddha said, "My disciples may be several thousand miles away from me, but if they remember my moral precepts, they will certainly attain the fruition of the Way.
+> The Buddha said, "My disciples may be several thousand miles away from me, but if they remember my moral precepts, they will certainly attain the fruition of the Way.
 "If those who are by my side do not follow my moral precepts, they may see me constantly, but in the end they will not attain the Way."
 
 #### Section  38
