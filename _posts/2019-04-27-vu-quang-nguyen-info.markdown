@@ -3,6 +3,7 @@ layout: post
 title:  "Vu Quang Nguyen-Info"
 categories: [ Information ]
 image: assets/images/demo1.jpg
+tags: [featured]
 ---
 
 ## Chia sẻ tâm tư
