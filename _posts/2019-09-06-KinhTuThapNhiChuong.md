@@ -3,7 +3,7 @@ layout: post
 title:  "Kinh Tứ Thập Nhị Chương"
 author: Đức Phật Thích Ca
 categories: [ KinhPhat,TuThapNhiChuong ]
-image: 
+image: https://www.etaopublishing.com/wp-content/uploads/2016/09/bodhisattva-ideal-in-buddhism.jpg
 tags: [sticky]
 ---
 
