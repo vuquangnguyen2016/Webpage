@@ -32,3 +32,24 @@ My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells
 <p>
     <img src="https://user-images.githubusercontent.com/36990033/64753417-5b272180-d54d-11e9-8a4b-904719974c14.jpg" alt="vuquangnguyen2018" align="center" width="709" height="1002"  >
 </p>
+
+<!-- 
+    <iframe src="https://dl.dropboxusercontent.com/1/view/gqo4etwy7nudtu2/JasperReports-Server-Visualize.js-Guide.pdf?preview" height="100%" width="100%">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="https://dl.dropboxusercontent.com/1/view/gqo4etwy7nudtu2/JasperReports-Server-Visualize.js-Guide.pdf?preview">Download PDF</a>
+    </iframe>
+
+ -->
+
+<!--
+<iframe src="https://drive.google.com/file/d/(your file id)/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 640; height: 700; position: absolute;" allowfullscreen>
+</iframe>
+-->
+
+<!-- 
+    Vi du: 
+    <iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 640; height: 700; position: absolute;" allowfullscreen>
+</iframe>
+ -->
+<iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 640; height: 700; position: absolute;" allowfullscreen>
+</iframe>
+
