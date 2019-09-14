@@ -6,6 +6,12 @@ image: https://user-images.githubusercontent.com/36990033/40307517-09827df0-5d2d
 tags: [featured]
 ---
 
+<div>
+        <iframe src="https://drive.google.com/file/d/1aJ0L2Fabjguw6Nl4TmoMDCG__XPEUbn7/preview?usp=embed_googleplus"  width="813" height="950" frameborder="0" allowfullscreen>
+        </iframe>
+    
+     </div>
+     
 ## Chia sẻ tâm tư
 
 Highly active and hard working students in the field of applied nuclear nuclear technique, accompanied data analysis skills and problem-solving skills looking for an intership in Nuclear Chemical Radiation, applied nuclear physics in Agriculture - Medicine - Biology . In order to positively contribute to the production process of the company, while ganning valuable industrial experience/ Fluent in English
@@ -90,11 +96,7 @@ https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be
 
  </div>
 
- <div>
-    <iframe src="https://drive.google.com/file/d/1aJ0L2Fabjguw6Nl4TmoMDCG__XPEUbn7/preview?usp=embed_googleplus"  width="813" height="950" frameborder="0" allowfullscreen>
-    </iframe>
 
- </div>
 
  
  <div>
