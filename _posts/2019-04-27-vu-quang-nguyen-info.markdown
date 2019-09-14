@@ -22,14 +22,11 @@ My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells
 - Gallery (Published on Flickr)
 
 <div class="flickrwrap">
-    <iframe src="https://www.flickr.com/photos/lequang2019/72157709777825882/player/"
-    frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        <a data-flickr-embed="true" href="https://www.flickr.com/photos/lequang2019/albums/72157709539185836" title="Khanh Hoa - May.29.2019 by vuquangnguyen2019, on Flickr"><img src="https://live.staticflickr.com/65535/48167380042_6bde024bdd_b.jpg" width="100%" alt="untitled"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  </div>
 
-<div class="flickrwrap">
-    <iframe src="https://www.flickr.com/photos/lequang2019/72157709539185836/player/"
-    frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
- </div>
+ <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 75%; padding-top: 120px;"><a href="https://www.flickr.com/photos/lequang2019/" data-iframely-url="//cdn.iframe.ly/g06gCuv"></a></div></div>
+ <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
  <div>
      <p>
@@ -105,3 +102,7 @@ https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be
     </iframe>
  </div>
  <!-- <iframe width="813" height="1600" src="https://www.youtube.com/embed/r0oJRP-4nzQ?list=PLNm7SqJ5EO8e_Zy2_HwVPxhbmwtKwDGOn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+
+ ***
+ 
