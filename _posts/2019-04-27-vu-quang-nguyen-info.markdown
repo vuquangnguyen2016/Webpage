@@ -22,8 +22,8 @@ My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells
 - Flickr: [LeQuang Photos](https://www.flickr.com/photos/vuquangnguyen2018/)
 - Thesis: [Group](https://www.dropbox.com/sh/3ozcma4rdm8oo1m/AABeGxA7KnQWACVFa-r7pnSTa?dl=0) + [Group2](https://1drv.ms/f/s!AkLKkIG8EJNHgz4KErwC3CHhdzAg)
 
-### CV - 2019
-<p>
+<!-- <!-- ### CV - 2019 -->
+<!-- <p>
     <img src="https://user-images.githubusercontent.com/36990033/64752952-a3454480-d54b-11e9-9e73-0156baeb7c2c.jpg" alt="vuquangnguyen2018" align="center" width="709" height="1002"  >
 </p>
 
@@ -31,7 +31,7 @@ My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells
 
 <p>
     <img src="https://user-images.githubusercontent.com/36990033/64753417-5b272180-d54d-11e9-8a4b-904719974c14.jpg" alt="vuquangnguyen2018" align="center" width="709" height="1002"  >
-</p>
+</p> --> 
 
 <!-- 
     <iframe src="https://dl.dropboxusercontent.com/1/view/gqo4etwy7nudtu2/JasperReports-Server-Visualize.js-Guide.pdf?preview" height="100%" width="100%">
@@ -55,8 +55,16 @@ https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be
 ***
 
  <div>
-     <iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus"  width="813" height="1600" frameborder="0" allowfullscreen>
+     <iframe src="https://drive.google.com/file/d/1UvkM-NwuD2sU2qyqwhbIIoOpHRGVDcQ6/preview?usp=embed_googleplus"  width="813" height="950" frameborder="0" allowfullscreen>
      </iframe>
+
+     <iframe src="https://drive.google.com/file/d/1cCh7FLVJi_HBCcc2pRep8E0muhlmzIGr/preview?usp=embed_googleplus"  width="813" height="950" frameborder="0" allowfullscreen>
+     </iframe>
+
+     <iframe src="https://drive.google.com/file/d/1aJ0L2Fabjguw6Nl4TmoMDCG__XPEUbn7/preview?usp=embed_googleplus"  width="813" height="950" frameborder="0" allowfullscreen>
+     </iframe>
+
+
 
  </div>
 
