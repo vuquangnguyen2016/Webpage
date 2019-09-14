@@ -21,12 +21,15 @@ My dream was bring to Vietnam a tribute success dedicated to Vietnam which tells
 ## Thông tin chi tiết
 - Gallery (Published on Flickr)
 
-<div class="flickrwrap">
-        <a data-flickr-embed="true" href="https://www.flickr.com/photos/lequang2019/albums/72157709539185836" title="Khanh Hoa - May.29.2019 by vuquangnguyen2019, on Flickr"><img src="https://live.staticflickr.com/65535/48167380042_6bde024bdd_b.jpg" width="100%" alt="untitled"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
- </div>
+<div>
 
- <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 75%; padding-top: 120px;"><a href="https://www.flickr.com/photos/lequang2019/" data-iframely-url="//cdn.iframe.ly/g06gCuv"></a></div></div>
- <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/lequang2019/albums/72157709539185836" title="Khanh Hoa - May.29.2019 by vuquangnguyen2019, on Flickr"><img src="https://live.staticflickr.com/65535/48167380042_6bde024bdd_b.jpg" width="100%" alt="untitled"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    
+
+</div>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://www.flickr.com/photos/lequang2019/48339721031/player" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
 
  <div>
      <p>
