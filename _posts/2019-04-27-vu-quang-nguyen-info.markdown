@@ -12,12 +12,9 @@ tags: [featured]
     
      </div>
 
-     <div style="width:813px;height:860px;text-align:center;margin:auto;" ><object width="813" height="860" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"> <param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Flequang2019%2Fshow&amp;page_show_back_url=%2Fphotos%2Flequang2019%2F&amp;user_id=181919238@N06&amp;tags=VuQuangNguyen" /> <param name="allowFullScreen" value="true" /> <param name="src" value="https://www.flickr.com/apps/slideshow/show.swf?v=71649" /> <embed width="813" height="860" type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=71649" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Flequang2019%2Fshow&amp;page_show_back_url=%2Fphotos%2Flequang2019%2F&amp;user_id=181919238@N06&amp;tags=VuQuangNguyen" allowFullScreen="true" /> </object><br /><small>Created with <a href="http://www.flickrslideshow.com">flickr slideshow</a>.</small></div>
+  
 
-<div>
-    <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/lequang2019/48106394841/in/album-72157709539185836/" title="untitled-4"><img src="https://live.staticflickr.com/65535/48106394841_6e63817e8d_o.jpg" width="4928" height="3264" alt="untitled-4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-</div>
 
 ## Chia sẻ tâm tư
 
