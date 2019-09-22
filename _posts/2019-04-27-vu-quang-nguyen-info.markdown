@@ -131,19 +131,3 @@ https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be
  
 
  ***
- ## ID Task
- 
-
- <div>
-        <iframe frameborder=0 
-            style="min-width: 200px; width: 60%; height: 460px;" 
-            scrolling="no" 
-            seamless="seamless" 
-            srcdoc='<html><body><style type="text/css">.gist .gist-data { height: 400px; }</style>
-                
-                <script src="http://gist-it.appspot.com/github/vuquangnguyen2016/Webpage/blob/master/ID.csv"></script></body></html>'
-            >
-
-    </iframe>
-
- </div>
