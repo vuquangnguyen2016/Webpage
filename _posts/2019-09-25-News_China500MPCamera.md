@@ -12,16 +12,19 @@ image: https://petapixel.com/assets/uploads/2019/09/downtown-954864_1920.jpg
  <p>
      <img src="https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2018/02/08/4b07ff84-0bed-11e8-a09e-8861893b1b1a_1280x720_073408.JPG?itok=Vip0BfFO" alt="SouthChinaMorningPost">
  </p>
- 
+
  Các ứng dụng đã được đặt đủ thông minh bởi Dịch vụ thông tấn China, đã viết rằng 'hệ thống siêu sinh trắc' có khả năng ghi lại chi tiết thông tin hàng ngàn gương mặt tại một sân vận động cũng như tạo ra một khối dữ liệu lớn được đồng bộ lên hệ thống đám mây ngay khi một đối tượng được nhận diện. 
  
  Theo tin tức từ CNS, công nghệ này sẽ được ủng hộ bởi hầu hết các chuyên gia Trung Quốc, ứng dụng này sẽ tăng cường sức mạnh quân sự, an ninh quốc gia và công cộng, mặc dù một số ít cho thể hiện quan ngại vì xâm phạm riêng tư cá nhân.
 
  Chỉ còn một câu hỏi còn tồn đọng là vận hành hiệu quả hệ thống như thể nào. Các báo cáo đây thể hiện rằng camera có thể ghi nhận một đối tượng ngay lập tức, nhưng xử lý khối dữ liệu 500MP lớn thì cần ít nhất hàng giờ, đặc biệt nếu hệ thống lại đẩy dữ liệu lên đám mây nói chi là ghi lại đoạn phim thì khối dữ liệu lớn hơn nhiều. Điều này thực là trở ngại lớn. Mặc dù những tiến bộ gần đây của cộng nghệ AI và nhận dạng khuôn mặt được áp dụng trên camera độ phân giải cực cao. Vì vậy cần có nhiều nghiên cứu hơn để thúc đẩy hoàn thiện thệ thống
 
-
+Theo Reddit
 
 ***
+
+<br>
+<hr>
 
 Scientists at the Fudan University and Changchun Institute of Optics, Fine Mechanics and Physics in China have developed a 500MP cloud-connected ‘super camera’ that can reportedly pick out facial details of an individual person among thousands in a crowded stadium. The new tech is raising serious concerns about privacy and government monitoring.
 
@@ -34,3 +37,5 @@ According to the CNS report, the technology is being praised by “most Chinese 
 The only question that remains is just how close to “fully operational” this system really is. Reports claim that the camera can “locate a particular target in an instant,” but processing 500MP images is a data-heavy task that could take hours, especially if its all being done wirelessly—to say nothing of video footage. Not that this is exceedingly comforting. Ultra-high resolution cameras are nothing new… with the recent advancements in AI and facial recognition, it seems that all that stands between us and Minority Report levels of sci-fi personal monitoring is faster data centers.
 
 (via Reddit)
+
+<p><a href="https://petapixel.com/2019/09/27/chinas-new-500mp-super-camera-can-recognize-a-face-among-tens-of-thousands/">Source Bài</a></p>
